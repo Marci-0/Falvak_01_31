@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print("egy push")
     print("órai munka:Pentakill ")
     print("Valami ami tetszik")
+    print("Órai munka:SZD")
