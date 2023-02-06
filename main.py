@@ -4,3 +4,4 @@ if __name__ == '__main__':
     print("órai munka: Utopia")
     print("Órai munk:TA")
     print("egy push")
+    print("órai munka:Pentakill ")
