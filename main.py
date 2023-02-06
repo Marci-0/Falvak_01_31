@@ -6,3 +6,4 @@ if __name__ == '__main__':
     print("Órai munka:KJ(JózsiKJ)")
     print("egy push")
     print("órai munka:Pentakill ")
+    print("Valami ami tetszik")
