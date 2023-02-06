@@ -5,4 +5,4 @@ if __name__ == '__main__':
     print("Órai munk:TA")
     print("Órai munka:KJ(JózsiKJ)")
     print("egy push")
-
+    print("órai munka:Pentakill ")
