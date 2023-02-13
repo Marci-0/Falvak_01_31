@@ -9,3 +9,4 @@ if __name__ == '__main__':
     print("Valami ami tetszik")
     print("Órai munka:SZD")
     print("sokadik")
+    print("Még egy push")
